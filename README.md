@@ -9,7 +9,10 @@ API Elérése: http://18.217.2.245:8080/myapp/application.wadl <br/>
 
 
 DROPWIZARD:
-
+<br/>
+DWSkillsService és DWSkillsClient<br/>
+X5HKN2 - Lázár Gergely<br/>
+<br/>
 Erőteljesen az előzőleg elkészült verzió mintájára Dropwizard környezetben.<br/>
 https://github.com/HomeWorksJava/OE_17autumn_Microservice_Combat<br/>
 <br/>
